@@ -9,3 +9,6 @@ Este proyecto consiste en una interfaz gráfica desarrollada con `Tkinter` que p
 - Entrenamiento de modelos de regresión polinomial por ruta (origen-destino).
 - Visualización 2D y 3D de predicciones usando `matplotlib`.
 - Integración con `Pandas`, `NumPy` y `scikit-learn`.
+
+##Link Presentación
+https://www.canva.com/design/DAGpiYqhTN8/poP69NZfCbmzpjgv_r3wAA/edit?utm_content=DAGpiYqhTN8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
