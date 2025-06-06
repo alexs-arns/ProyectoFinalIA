@@ -11,4 +11,4 @@ Este proyecto consiste en una interfaz gráfica desarrollada con `Tkinter` que p
 - Integración con `Pandas`, `NumPy` y `scikit-learn`.
 
 ## Presentación
-https://www.canva.com/design/DAGpiYqhTN8/poP69NZfCbmzpjgv_r3wAA/edit?utm_content=DAGpiYqhTN8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[Diapositivas - Happy Route](https://www.canva.com/design/DAGpiYqhTN8/poP69NZfCbmzpjgv_r3wAA/edit?utm_content=DAGpiYqhTN8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
